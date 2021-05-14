@@ -9,7 +9,7 @@ There are more than hundreds of CSS properties available on the web. Remembering
 
 While covering all above concepts we'll also deal with various CSS properties which we gonna add to our html component to give it a little smarter look by adding each of the components listed [here](). After learning some of them later when you need other css properties to use, you're just a web-search away! Phew ε-(´・｀) ﾌ
 
-## assignment (after attending CSS session)
+## assignment
 * Design your own portfolio
 
 ## more resources for hands-on practice and reading
