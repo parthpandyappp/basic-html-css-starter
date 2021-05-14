@@ -1,7 +1,7 @@
 # Curriculum to basic frontend concepts
 
 ## Components we need in our library
-There are several components which we're going to work upon today! As I don't want the beginners to get overloaded or some sort of overwhelmed with resources as there are more than hundreds of elements we can use from Html so, I've listed few of them below and till the end of this session we'll be able to use each of them in our portfolio or other projects
+There are several components which we're going to work upon today! As I don't want the beginners to get overloaded or some sort of overwhelmed with resources as there are more than hundreds of elements we can use from Html so, I've listed few of them below and till the end of this session we'll be able to use each of them in our portfolio or other projects.
 
 ### typography
 * headings
@@ -50,6 +50,6 @@ There are several components which we're going to work upon today! As I don't wa
 * Design your own portfolio
 
 ## more resources for hands-on practice and reading
-* Radiates [just HTML component](https://c9kw1.csb.app/)
+* Radiate's [just Html component library](https://c9kw1.csb.app/)
 * Getting started with HTML by [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 * Hands-on practice by [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
