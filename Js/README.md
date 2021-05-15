@@ -11,6 +11,9 @@ Here's a checklist of actually what we'll be into when the session starts :
   * javaScript variables
   * javaScript functions
   * styling using javascipt
+ <pre>
+ 
+ </pre>
   
 * Count-down 
   * `querySelector()`
@@ -18,7 +21,9 @@ Here's a checklist of actually what we'll be into when the session starts :
   * javaScript conditionals
   * `setInterval`
   * `clearInterval`
-  
+ <pre>
+ 
+ </pre>
 * Color Flipper.
   * javaScript variables
   * defining functions in javaScript
@@ -36,6 +41,9 @@ Here's a checklist of actually what we'll be into when the session starts :
 * JavaScript can react to all existing HTML events in the page
 * JavaScript can create new HTML events in the page
 
+<pre>
+ 
+</pre>
 ### Html DOM tree of objects
 <p align="center">
   <img src="https://i.ibb.co/z7MfsvG/screely-1621107110994.png" title="Html DOM tree of objects"/>
