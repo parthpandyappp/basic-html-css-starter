@@ -12,7 +12,8 @@ Here's a checklist of actually what we'll be into when the session starts :
   * javaScript functions
   * styling using javascipt
  
-  
+<br />
+
 * Count-down 
   * `querySelector()`
   * javaScript functions
@@ -20,6 +21,8 @@ Here's a checklist of actually what we'll be into when the session starts :
   * `setInterval`
   * `clearInterval`
  
+<br /> 
+
 * Color Flipper.
   * javaScript variables
   * defining functions in javaScript
