@@ -9,12 +9,16 @@ There are more than hundreds of CSS properties available on the web. Remembering
 
 While covering all above concepts we'll also deal with various CSS properties which we gonna add to our html component to give it a little smarter look by adding each of the components listed [here](https://parthpandyappp.github.io). After learning some of them later when you need other css properties to use, you're just a web-search away! Phew ε-(´・｀) ﾌ
 
+### Css box model
+<p align="center">
+  <img src="https://i.ibb.co/bdwXbPx/screely-box-model.png" title="Box model"/>
+</p>
 
 
-## assignment
+### assignment
 * Design your own portfolio.
 
-## more resources for hands-on practice and reading
+### more resources for hands-on practice and reading
 * Radiate's [complete component library](https://ikej6.csb.app/)
 * Getting started with Css by [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * Hands-on practice by [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
