@@ -7,13 +7,9 @@ There are more than hundreds of CSS properties available on the web. Remembering
 * CSS box model
 * CSS variables
 
-While covering all above concepts we'll also deal with various CSS properties which we gonna add to our html component to give it a little smarter look by adding each of the components listed [here](). After learning some of them later when you need other css properties to use, you're just a web-search away! Phew ε-(´・｀) ﾌ
+While covering all above concepts we'll also deal with various CSS properties which we gonna add to our html component to give it a little smarter look by adding each of the components listed [here](https://parthpandyappp.github.io). After learning some of them later when you need other css properties to use, you're just a web-search away! Phew ε-(´・｀) ﾌ
 
-### CSS box model
 
-<p align="center">
-  <img src="https://i.ibb.co/bdwXbPx/screely-box-model.png" title="CSS box model"/>
-</p>
 
 ## assignment
 * Design your own portfolio.
