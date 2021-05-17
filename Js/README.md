@@ -6,7 +6,7 @@ While learning javaScript, we're going to cover most of it's implementations by 
 
 Here's a checklist of actually what we'll be into when the session starts :
 
-* Counter
+* [Counter](https://n8pii.csb.app/)
   * `onClick` event
   * javaScript variables
   * javaScript functions
@@ -14,7 +14,7 @@ Here's a checklist of actually what we'll be into when the session starts :
  
 <br />
 
-* Count-down 
+* [Count-down](https://1ih4b.csb.app/) 
   * `querySelector()`
   * javaScript functions
   * javaScript conditionals
@@ -23,7 +23,7 @@ Here's a checklist of actually what we'll be into when the session starts :
  
 <br /> 
 
-* Color Flipper.
+* [Color Flipper](https://josji.csb.app/)
   * javaScript variables
   * defining functions in javaScript
   * `querySelector()`
