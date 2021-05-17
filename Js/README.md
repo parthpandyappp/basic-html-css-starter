@@ -50,4 +50,4 @@ Here's a checklist of actually what we'll be into when the session starts :
 Using all above things, you'll be able to develop `bananaProcessor` as a web-application, which translates English to Minionese -a language which Minions use to speak. You've to use [this](https://api.funtranslations.com/translate/minion.json) API and read about `fetch` from this [MDN doc](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to further use this API.
 
 If you find any trouble doing it, jump off to the source code I developed [here](https://github.com/parthpandyappp/BananaProcessor)
-Access it live from here : https://bananaprocessor.netlify.app/
+Access it live from here : [https://bananaprocessor.netlify.app/](https://bananaprocessor.netlify.app/)
