@@ -14,6 +14,11 @@ While covering all above concepts we'll also deal with various CSS properties wh
   <img src="https://i.ibb.co/bdwXbPx/screely-box-model.png" title="Box model"/>
 </p>
 
+### Hexadecimal Colors
+* Hexadecimal colors are supported in all browsers.
+* A hexadecimal color is specified with: `#RRGGBB`.
+* `RR` (red), `GG` (green) and `BB` (blue) are hexadecimal integers between `00` and `FF` specifying the intensity of the color.
+* For example, `#0000FF` is displayed as blue, because the blue component is set to its highest value `FF` and the others are set to `00`.
 
 ### assignment
 * Design your own portfolio.
