@@ -6,7 +6,7 @@ While learning javaScript, we're going to cover most of it's implementations by 
 
 Here's a checklist of actually what we'll be into when the session starts :
 
-* [Counter](https://n8pii.csb.app/)
+* [Counter](https://1ih4b.csb.app/)
   * `onClick` event
   * javaScript variables
   * javaScript functions
@@ -14,7 +14,7 @@ Here's a checklist of actually what we'll be into when the session starts :
  
 <br />
 
-* [Count-down](https://1ih4b.csb.app/) 
+* [Count-down](https://n8pii.csb.app/) 
   * `querySelector()`
   * javaScript functions
   * javaScript conditionals
