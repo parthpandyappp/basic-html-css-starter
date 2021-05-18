@@ -27,3 +27,7 @@ While covering all above concepts we'll also deal with various CSS properties wh
 * Neophyte's [complete component library](https://ikej6.csb.app/)
 * Getting started with Css by [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * Hands-on practice by [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+
+## more such checklists
+* [Html checklist](https://parthpandyappp.github.io/basic-html-css-starter/)
+* [Js  checklist](https://parthpandyappp.github.io/basic-html-css-starter/Js)
