@@ -50,7 +50,7 @@ There are several components which we're going to work upon today! As I don't wa
 * Design your own portfolio
 
 ## more resources for hands-on practice and reading
-* Radiate's [just Html component library](https://c9kw1.csb.app/)
+* Neophyte's [just Html component library](https://c9kw1.csb.app/)
 * Getting started with HTML by [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 * Hands-on practice by [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
