@@ -52,3 +52,8 @@ Using all above things, you'll be able to develop `bananaProcessor` as a web-app
 If you find any trouble doing it, jump off to the source code I developed [here](https://github.com/parthpandyappp/BananaProcessor)
 
 Access it live from here : [https://bananaprocessor.netlify.app/](https://bananaprocessor.netlify.app/)
+
+## more such checklists
+* [Css checklist](https://parthpandyappp.github.io/basic-html-css-starter/Css)
+* [Html  checklist](https://parthpandyappp.github.io/basic-html-css-starter/)
+
